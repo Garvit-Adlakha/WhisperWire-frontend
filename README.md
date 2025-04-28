@@ -2,6 +2,8 @@
 
 A modern chat application frontend built with **React 19**, **Vite**, **Tailwind CSS**, and **Socket.IO**.
 
+> **Note**: The frontend code for this application can be found in the [WhisperWire Backend Repository](https://github.com/Garvit-Adlakha/WhisperWire-backend).
+
 ## Features
 
 - ⚡ Fast development with Vite
